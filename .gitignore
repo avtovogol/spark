@@ -13,3 +13,4 @@ yarn-error.log
 /.idea
 /.vscode
 /docker/8.1/logs
+/docker/8.1/nginx/ssl
