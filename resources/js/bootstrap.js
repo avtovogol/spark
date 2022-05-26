@@ -27,8 +27,11 @@ window.Pusher = require('pusher-js');
 window.Echo = new Echo({
     broadcaster: 'pusher',
     key: process.env.MIX_PUSHER_APP_KEY,
-    forceTLS: false,
+    forceTLS: true,
     wsHost: process.env.MIX_APP_HOST,
     wsPort: 6001,
-    encrypted: false
+    enabledTransports: ['ws', 'wss'],
+    useTLS:true, //for http-> false, https->true
+    encrypted: false,
+    disableStats: true,
 });
