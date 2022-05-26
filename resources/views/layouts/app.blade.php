@@ -8,16 +8,16 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="default">
     <meta name="apple-mobile-web-app-title" content="Spark">
 
-    <link rel="apple-touch-icon" sizes="57x57" href="img/icons/apple-icon-57x57.png">
-    <link rel="apple-touch-icon" sizes="60x60" href="img/icons/apple-touch-icon-60x60.png">
-    <link rel="apple-touch-icon" sizes="76x76" href="img/icons/apple-touch-icon-76x76.png">
-    <link rel="apple-touch-icon" sizes="120x120" href="img/icons/apple-touch-icon-120x120.png">
-    <link rel="apple-touch-icon" sizes="152x152" href="img/icons/apple-touch-icon-152x152.png">
-    <link rel="apple-touch-icon" sizes="180x180" href="img/icons/apple-touch-icon-180x180.png">
-    <link rel="icon" type="image/png" sizes="192x192"  href="img/icons/android-icon-192x192.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="img/icons/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="img/icons/favicon-16x16.png">
-    <link rel="manifest" href="manifest.json"/>
+    <link rel="apple-touch-icon" sizes="57x57" href="/img/icons/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/img/icons/apple-touch-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/img/icons/apple-touch-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/img/icons/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/img/icons/apple-touch-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/img/icons/apple-touch-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192"  href="/img/icons/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/img/icons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/img/icons/favicon-16x16.png">
+    <link rel="manifest" href="/manifest.json"/>
 
     <meta name="msapplication-TileColor" content="#000000">
     <meta name="msapplication-TileImage" content="img/icons/mstile-150x150.png">
